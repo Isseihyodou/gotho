@@ -1,0 +1,158 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Prata', serif;
+} 
+
+h1{
+    color: rgb(81, 138, 125);
+    font-size: 5.625rem;
+    margin: 50px auto -25px auto;
+    font-family: 'Sacramento', cursive;
+}
+
+h2{
+    color: rgb(81, 138, 124);
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3{
+    color: rgb(65, 110, 100);
+    font-family: 'Montserrat', sans-serif;
+}
+
+p{
+    line-height: 2;
+}
+
+hr{
+    /*
+    border-style: dotted none none;
+    border-color: rgb(128, 128, 128);
+    border-width: 10px;
+    */
+    border: dotted grey 10px;
+    border-bottom: none;
+    width: 10%;
+    margin: 100px auto;
+}
+
+
+.im{
+    background-color: rgb(189, 235, 220);
+    position: relative;
+    padding-top: 150px;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+
+.a{   
+    margin: 100px 0;
+} 
+.profile{
+    text-align: center;
+}
+.me{
+    width: 30%;
+    margin: auto;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px;
+    text-align: left;
+}
+
+.pho{
+    border-radius: 100%;
+    height: 250px;
+    width: 260px;
+}
+
+.to{
+    border-radius: 100%;
+    height: 200px;
+    width: 190px;
+    float: left;
+    margin-right: 50px;
+}
+
+.guitar{
+    height: 200px;
+    width: 220px;
+    float: right;
+    margin-left: 50px;
+}
+.guitar2{
+    clear:none;
+}
+
+
+.topcl{
+    position: absolute;
+    right: 250px;
+    top: 20px;
+}
+
+.botcl{
+    position: absolute; 
+    left: 250px;
+    bottom: 250px;
+}
+
+
+.contact{
+    width: 70%;
+    margin: 40px auto 60px;
+}
+
+.btn{
+    font-family: arial, sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin: 10px 20px;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+}
+
+.btn:hover{
+    background-image: -webkit-linear-gradient(top, #16ced4, #16989c);
+    color: #fff; 
+}
+
+
+.boii{
+    background-color: rgb(136, 212, 187);
+    padding: 50px 0 20px;
+}
+
+.footer-link{
+    color: #fff;
+    text-decoration: none;
+    margin: 10px 20px;
+}
+.footer-link:hover{
+    color: black;
+}
+
+.o{
+    color: #ffffff;
+    font-size: 0.9rem;
+    padding: 20px 0;
+}
+
+
+/*
+.cir{
+    border-radius: 100%; 
+} 
+©
+*/
